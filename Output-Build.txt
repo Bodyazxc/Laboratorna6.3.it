@@ -1,0 +1,6 @@
+﻿Build started at 20:47...
+1>------ Build started: Project: UnitTest6.3it, Configuration: Debug x64 ------
+1>UnitTest6.3it.cpp
+1>UnitTest6.3it.vcxproj -> C:\Users\Compik_2\source\repos\Laboratorna6.3.it\x64\Debug\UnitTest6.3it.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Build completed at 20:47 and took 01,590 seconds ==========
